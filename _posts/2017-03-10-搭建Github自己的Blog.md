@@ -1,5 +1,5 @@
 ---
-title: 搭建Github自己的Blog
+title: 在Github上搭建自己的Blog
 layout: post
 categories: tools
 tags: blog
